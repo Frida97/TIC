@@ -58,7 +58,7 @@
   <div class="w3-display-container w3-animate-opacity">
     <img src="/TIC/Fotos/mca2.png" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   </div>-->
-
+  <br><br>
   <div class="container" style="width:100%;">
   <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width:100%;">
     <!-- Indicators -->

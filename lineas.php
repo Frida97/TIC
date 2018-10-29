@@ -30,12 +30,12 @@
 <!-- Navbar -->
 <div class="w3-top">
  <div class="w3-bar w3-theme-d2 w3-left-align">
-  <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
-  <a href="#" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Logo</a>
-  <a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Proyectos</a>
-  <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Líneas de Investigación</a>
-  <a href="#pricing" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Eventos</a>
-  <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contactanos</a>
+   <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
+   <a href="/TIC" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Inicio</a>
+   <a href="/TIC/proyectos.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Proyectos</a>
+   <a href="/TIC/lineas.php" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Lineas de Investigación</a>
+   <a href="#pricing" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Eventos</a>
+   <a href="/TIC/publicaciones-y-congresos.php" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Publicaciones y Congresos</a>
     <div class="w3-dropdown-hover w3-hide-small">
     <button class="w3-button" title="Notifications">Investigadores <i class="fa fa-caret-down"></i></button>
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
@@ -162,6 +162,7 @@
    </div>
   </div>
 </div>
+<br>
 
 <div class="w3-container w3-center ">
   <br>
@@ -183,6 +184,7 @@
    </div>
   </div>
 </div>
+<br>
 
 <div class="w3-container w3-center w3-teal">
   <br>
@@ -214,7 +216,7 @@
    </div>
   </div>
 </div>
-
+<br>
 <!-- Container -->
 <div class="w3-container" style="position:relative">
   <a onclick="w3_open()" class="w3-button w3-xlarge w3-circle w3-teal"
